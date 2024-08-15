@@ -27,11 +27,7 @@ pip install numpy pandas tensorflow matplotlib scikit-learn
 ## Usage
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/Apple-Stock-Prediction-LSTM.git
-    cd Apple-Stock-Prediction-LSTM
-    ```
-
+   
 2. **Prepare the data**:
     - Ensure you have the historical stock price data for Apple Inc. (e.g., from Yahoo Finance). or use api like used in this project from FMP
 
